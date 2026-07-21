@@ -6,3 +6,5 @@ numpy
 PyPDF2
 python-docx
 reportlab
+pdfplumber
+joblib
