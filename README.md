@@ -19,3 +19,14 @@ SmartHire AI is an intelligent resume analysis system that helps users analyze r
 - 💡 Resume Suggestions
 - 📑 PDF Report Generation
 - 🌐 Streamlit Web Application
+
+- ---
+
+# 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Scikit-Learn
+- Plotly
+- ReportLab
