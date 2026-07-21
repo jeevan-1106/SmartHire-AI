@@ -1,0 +1,69 @@
+Jeevan BS
+
+Email:
+jeevan@gmail.com
+
+Phone:
+9876543210
+
+Education
+
+Bachelor of Technology in Computer Science Engineering
+
+Chanakya University
+
+CGPA: 7.8
+
+Skills
+
+Python
+
+Java
+
+SQL
+
+Machine Learning
+
+Artificial Intelligence
+
+Git
+
+GitHub
+
+Pandas
+
+NumPy
+
+Scikit-Learn
+
+Projects
+
+SmartHire AI Resume Recommendation System
+
+Plant Disease Detection using Deep Learning
+
+Student Management System using Python
+
+Internship
+
+AI/ML Intern
+
+XYZ Technologies
+
+Worked on Machine Learning models and Data Analysis.
+
+Certifications
+
+Python Programming
+
+Machine Learning Fundamentals
+
+SQL for Data Science
+
+Languages
+
+English
+
+Kannada
+
+Hindi
